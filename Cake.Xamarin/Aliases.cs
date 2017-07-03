@@ -17,7 +17,7 @@ namespace Cake.Xamarin
     [CakeAliasCategory("Xamarin")]
     public static class XamarinAliases
     {
-        internal const string DEFAULT_MDTOOL_PATH = "/Applications/Xamarin Studio.app/Contents/MacOS/mdtool";
+        internal const string DEFAULT_MDTOOL_PATH = "/Applications/Visual Studio.app/Contents/MacOS/vstool";
 
         /// <summary>
         /// Creates an android .APK package file

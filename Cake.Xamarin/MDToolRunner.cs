@@ -52,15 +52,15 @@ namespace Cake.Xamarin
 
         protected override string GetToolName ()
         {
-            return "mdtool";
+            return "vstool";
         }
 
         protected override IEnumerable<string> GetToolExecutableNames ()
         {
-            yield return "mdtool";
-            yield return "mdtool.exe";
-            yield return "mdtool.cmd";
-            yield return "mdtool.sh";
+            yield return "vstool";
+            yield return "vstool.exe";
+            yield return "vstool.cmd";
+            yield return "vstool.sh";
         }
 
         protected override IEnumerable<FilePath> GetAlternativeToolPaths (MDToolSettings settings)

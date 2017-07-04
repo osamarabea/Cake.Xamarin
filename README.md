@@ -1,4 +1,4 @@
-# Cake.Xamarin
+# Cake.Xamarin (with vstool support for Visual Studio for Mac)
 A set of aliases for http://cakebuild.net to help with Xamarin projects.
 
 ![AppVeyor](https://ci.appveyor.com/api/projects/status/github/redth/Cake.Xamarin)
